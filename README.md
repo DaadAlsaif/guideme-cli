@@ -1,22 +1,34 @@
 # guideme-cli
 
+
 ##Features
 
-1.Ask the user to login
+Ask the user(tourist/tour guide) to login
+##If tourist
 
-2.Ask the user for places that he willing to visit 
+1.Ask the user to choose the place that he willing to visit 
 
-3.View the tour guides and ask the user to choose on of them
+2.View the available tour guides in that place and ask the user to choose one of them
 
-4.User can reserve the tour guide
+3.View tour guides info by click on their name.
 
-5.User can contact the selected tour guide
+4.Make a reservation
 
-6.User can cancel the reservation
+5.Contact the selected tour guide
 
-7.User can rate the tour guide and write a comment after reser
+6.Cancel the reservation
 
-8.Users can update there info.
+7.User can rate the tour guide and write a comment. 
+
+
+
+##If TourGuide
+
+1.Reservation request
+
+2.accept/declined
+
+
 
 ##Stack
 
